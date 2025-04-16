@@ -28,25 +28,24 @@
   "framework": "NIST CSF",
   "control_category": "Access Control Policy"
 }
-## Example Response
-### Access Control Policy
+# Access Control Policy
 
 **Company:** Acme Inc.  
 **Framework:** SOC 2  
 
-### Purpose
+## Purpose
 The purpose of this Access Control Policy is to...
 
-### Scope
+## Scope
 This policy applies to...
 
-### Roles and Responsibilities
+## Roles and Responsibilities
 - CISO
 - IT Admins
 - Department Managers
 ...
 
-### Policy Statements
+## Policy Statements
 1. Least privilege
 2. MFA required
 3. Role-based access control
