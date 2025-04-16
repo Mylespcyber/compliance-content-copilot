@@ -13,7 +13,7 @@
 
 ---
 
-## 🧪 Example Use Case
+##Example Use Case
 
 **POST** `/generate-policy/`
 
